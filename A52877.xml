@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New apparition of S. Edmund-Bery Godfrey's ghost to the E. of D. in the Tower</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52877</idno><idno type="EEBO-CITATION">13640624</idno>
+  <idno type="VID">100891</idno>
+  <idno type="EEBO-PROQUEST">2240872862</idno>
+  
+            <idno type="STC">Wing N551</idno>
+            <idno type="STC">ESTC R16905</idno>
+            <idno type="OCLC">13640624</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 797:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New apparition of S. Edmund-Bery Godfrey's ghost to the E. of D. in the Tower</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Benskins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term type="personal_name">Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100891:1"/>
+            <pb facs="tcp:100891:1"/>
+            <head>A New Apparition OF <hi>S. Edmund-bery Godfrey's</hi> GHOST TO The E. of D— in the TOWER.</head>
+            <p>DID not the Air of this place then agree with your weak, tender Constitution? hah! did you want airing, bloody <hi>Politician?</hi> and Liberty to range the World about, to do more mischief to this groaning Nation? 'Twas time for <hi>Providence,</hi> who all things sees, to bring an <hi>Habeas Corpus,</hi> and to call the Bloody <hi>Da—</hi> to his juster Bar: Look on me cruel Wretch, see the Effects of thy most horrid, and most bloody Plot. See me the humane Sacrifice, which thou inhumane offer'dst up to thy God <hi>Moloch,</hi> thy God of <hi>humane Policy,</hi> the <hi>Devil.</hi> Didst thou never dream of <hi>Providence</hi> above? Didst think the shades of <hi>Hell</hi> could hide thy Act, thy Impious Act, from the all-seeing Eye, which penetrates into thy very Heart, And sees the very canker'd Poyson there? Vain idle Wretch, that thought thus to delude the <hi>Almighty Mind,</hi> who all thy actions knows: and durst contend with thy infernal Arts of Hel-bred Policy, with <hi>God</hi> himself: For didst thou think that he would e'er approve the Murther of a Man, an Innocent, by the Contrivance wrought, and not detect at last the bloody Au<g ref="char:EOLhyphen"/>thors, and <hi>Contrivers,</hi> as well as those poor hireling Instruments, that did the bloody deed? Blood still cries loud ith' Ears of <hi>Justice,</hi> none did e'er es<g ref="char:EOLhyphen"/>cape the hand of Vengeance: And the wrath of <hi>Heaven</hi> reaches them in this World, or in the next. I laugh to see thee tremble, to behold thy <hi>Con<g ref="char:EOLhyphen"/>science</hi> thy Accuser, and to fly in thy own Face; as once thou laugh'dst at me, before thou sent'st me to be sacrific'd. You now remember well your close Consult, What Persons then were laying Heads together, the bloody Scene was laid with hellish Art, and the Contrivers smil'd to hear it done: O pious Act, to hide an impious Plot, in which your hands were deep: but all in vain, For though I thus to Heaven was pack'd away, by thy Con<g ref="char:EOLhyphen"/>trivance, yet God took the Cause of this distressed Nation into his own
+<pb facs="tcp:100891:2"/> hand, and strangely raised up new Witnesses, that could through various Tides of Opposition, make true Discoveries of poor <hi>Englands</hi> Troubles, Such as have hitherto kept off the Blow of utter Ruine, though they ne'er were suffer'd to reach the Root. <hi>Hope</hi> like delusive Lights, that lead poor Travellers out of the way, till they are brought into some Pit or Ditch, where they perhaps at last may loose their Lives, has led you and your dear Confederates, till now you fall into the Pit of <hi>Justice.</hi> Down, down poor groveling Dust, and see your folly, Contend no longer with the power of <hi>Heaven,</hi> think <hi>Politician,</hi> that thou hast a Soul more precious yet, than a poor blast of <hi>Fame,</hi> save that, save that, perhaps thy Body too Let God be glorified by thee at last, Fear not a <hi>Mortal Man,</hi> own <hi>Truth,</hi> I say, confess and satisfie the wondring World, For if thou dost not, know that <hi>God</hi> at last will bring forth <hi>Truth,</hi> the glorious Child of <hi>Heaven,</hi> and spite of <hi>Hell,</hi> and all its <hi>Policies,</hi> The very bottom of the <hi>Plot</hi> shall be turn'd up to open view. The World shall judge the depth of Wickedness, that covered now lies in the Hearts of Men. Nor <hi>He,</hi> nor <hi>She,</hi> nor any, who such horrid things design shall scape. Murther, O bloody Murther still will be found out, for <hi>God</hi> is ever <hi>Just.</hi> Lay on thy guilty Heart thy Hand, and say, I see that <hi>God</hi> us wiser far than I: For when I thought the bitterness of Death was past, and flatter<g ref="char:EOLhyphen"/>ing Hope appear'd, A <hi>Clew</hi> to lead me from my imprison'd Labrynth, when I with working Brain had undermin'd those who with eager cry persu'd me still, and working like a <hi>Mole,</hi> still under ground rais'd up those little rugged Hills that spoil'd <hi>Englands</hi> fair Garden: When I had thought by cunning Pleas to get a little Liberty, that I might laugh at the deluded World, and steer unseen the faultring Barque to ruine, exposing others Lives, whilst I sculkt close, as if I'ad left the World: when thus I say, I'ad built a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abel almost up to Heaven, that then when I ne'er dreamt of such a thing, a Bill of <hi>Murther</hi> should be found against me, that by a strange and unusual way, in open Court, and before all the World, it should be sworn with all its Circumstance; that this the unseen hand of <hi>Heaven</hi> should cut my <hi>Clew</hi> of <hi>Hope,</hi> and fling my Babel down, and pull me from my <hi>Mine</hi> into the Light, argues that I, with all my <hi>Policy,</hi> am but a Worm, and that in vain I struggle against <hi>Omnipotence:</hi> Consider this, lay it to Heatt, let <hi>Hell</hi> delude no more, strive not against the Stream of <hi>Providence,</hi> nor kick against the Pricks of <hi>Divine Power;</hi> in thinking thou by tricks, of cunning shifts, shalt clear thy self of my most horrid <hi>Murther.</hi> A door of <hi>Hope,</hi> of better Hope than thine, stands open to thee: Turn on thy Right Hand, and let <hi>Truth</hi> be thy Guide; at last confess, and <hi>Glory</hi> give to God. Trust not to <hi>Man,</hi> he shall deceive thee. Hearken to the Call of thy own <hi>Conscience;</hi> hearken now to me, Heav'n's <hi>Messenger:</hi> Go satisfie the <hi>King,</hi> and the whole <hi>English</hi> Nation, then shalt thou be call'd a <hi>Saviour</hi> of the Nation too.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> T. Benskins <hi>in St.</hi> Brides Church-yard. <hi>1681.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
